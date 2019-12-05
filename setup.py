@@ -14,7 +14,6 @@ extraReqs = {
 }
 sources = {
     'dummy': ['large-image-source-dummy'],
-    'mapnik': ['large-image-source-mapnik'],
     'ometiff': ['large-image-source-ometiff'],
     'openjpeg': ['large-image-source-openjpeg'],
     'openslide': ['large-image-source-openslide'],
